@@ -1,0 +1,8 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore session files
+*.session
+*.session.json
+*.session-*  # For Baileys or similar libraries that use dynamic session files
+
